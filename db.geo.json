@@ -1,0 +1,631 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23595323910355, 40.099344605480795
+        ]
+      },
+      "properties": {
+        "stadium": "University of Illinois Memorial Stadium",
+        "team": "University of Illinois Fighting Illini",
+        "capacity": 60670,
+        "conference": "BIG",
+        "noise": 109.096,
+        "type": "estimated"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5256, 39.1809
+        ]
+      },
+      "properties": {
+        "stadium": "Indiana University Memorial Stadium",
+        "team": "Indiana University Hoosiers",
+        "capacity": 52626,
+        "conference": "BIG",
+        "noise": 107.227,
+        "type": "estimated"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5511, 41.6585
+        ]
+      },
+      "properties": {
+        "stadium": "Kinnick Stadium",
+        "team": "University of Iowa Hawkeyes",
+        "capacity": 69250,
+        "conference": "BIG",
+        "noise": 111.089,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9472, 38.9903
+        ]
+      },
+      "properties": {
+        "stadium": "SECU Stadium",
+        "team": "University of Maryland Terrapins",
+        "capacity": 51802,
+        "conference": "BIG",
+        "noise": 102.036,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.748695, 42.265835
+        ]
+      },
+      "properties": {
+        "stadium": "Michigan Stadium",
+        "team": "University of Michigan Wolverines",
+        "capacity": 107601,
+        "conference": "BIG",
+        "noise": 120,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48488693193075, 42.72835955715014
+        ]
+      },
+      "properties": {
+        "stadium": "Spartan Stadium",
+        "team": "Michigan State University Stadium",
+        "capacity": 75005,
+        "conference": "BIG",
+        "noise": 107.427,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22437578470232, 44.977261956151004
+        ]
+      },
+      "properties": {
+        "stadium": "Huntington Bank Stadium",
+        "team": "University of Minnesota Golden Gophers",
+        "capacity": 50805,
+        "conference": "BIG",
+        "noise": 106.804,
+        "type": "estimated"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.70557727434843, 40.82080302002935
+        ]
+      },
+      "properties": {
+        "stadium": "Memorial Stadium",
+        "team": "University of Nebraska Cornhuskers",
+        "capacity": 85458,
+        "conference": "BIG",
+        "noise": 114.855,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69244095894973, 42.06556584409051
+        ]
+      },
+      "properties": {
+        "stadium": "Ryan Field",
+        "team": "Northwestern University Wildcats",
+        "capacity": 47130,
+        "conference": "BIG",
+        "noise": 105.950,
+        "type": "estimated"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01974757623273, 40.00173026392917
+        ]
+      },
+      "properties": {
+        "stadium": "Ohio Stadium",
+        "team": "The Ohio State University Buckeyes",
+        "capacity": 102780,
+        "conference": "BIG",
+        "noise": 118.879,
+        "type": "estimated"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.06853567715237, 44.058691082173475
+        ]
+      },
+      "properties": {
+        "stadium": "Autzen Stadium",
+        "team": "University of Oregon Ducks",
+        "capacity": 54000,
+        "conference": "BIG",
+        "noise": 127,
+        "type": "measured"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.91839586195572, 40.434520861097994
+        ]
+      },
+      "properties": {
+        "stadium": "Ross–Ade Stadium",
+        "team": "Purdue University Boilermakers",
+        "capacity": 61441,
+        "conference": "BIG",
+        "noise": 109.275,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.46527780319767, 40.51368448080245
+        ]
+      },
+      "properties": {
+        "stadium": "SHI Stadium",
+        "team": "Rutgers University Scarlet Knights",
+        "capacity": 52454,
+        "conference": "BIG",
+        "noise": 107.187,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16764620346552, 34.16133725068354
+        ]
+      },
+      "properties": {
+        "stadium": "Rose Bowl Stadium",
+        "team": "University of California, Los Angeles Bruins",
+        "capacity": 89702,
+        "conference": "BIG",
+        "noise": 115.84,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28787305439498, 34.0137536047824
+        ]
+      },
+      "properties": {
+        "stadium": "Los Angeles Memorial Coliseum",
+        "team": "University of Southern California Trojans",
+        "capacity": 77500,
+        "conference": "BIG",
+        "noise": 113.006,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30161010285255, 47.65032489859216
+        ]
+      },
+      "properties": {
+        "stadium": "Husky Stadium",
+        "team": "University of Washington Huskies",
+        "capacity": 70138,
+        "conference": "BIG",
+        "noise": 133.6,
+        "type": "measured"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.41268736614053, 43.069911770357415
+        ]
+      },
+      "properties": {
+        "stadium": "Camp Randall Stadium",
+        "team": "University of Wisconsin Badgers",
+        "capacity": 80321,
+        "conference": "BIG",
+        "noise": 113.662,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8550, 40.8113
+        ]
+      },
+      "properties": {
+        "stadium": "Beaver Stadium",
+        "team": "Pennsylvania State University Nittany Lions",
+        "capacity": 106572,
+        "conference": "BIG",
+        "noise": 122,
+        "type": "measured"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55028, 33.20833
+        ]
+      },
+      "properties": {
+        "stadium": "Saban Field at Bryant-Denny Stadium",
+        "team": "University of Alabama Crimson Tide",
+        "capacity": 100077,
+        "conference": "SEC",
+        "noise": 113.1,
+        "type": "measured"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.17888098465488, 36.068184720759376
+        ]
+      },
+      "properties": {
+        "stadium": "Donald W. Reynolds Razorback Stadium",
+        "team": "University of Arkansas Razorbacks",
+        "capacity": 76000,
+        "conference": "SEC",
+        "noise": 117,
+        "type": "measured"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.48906142698236, 32.602522240323935
+        ]
+      },
+      "properties": {
+        "stadium": "Jordan-Hare Stadium",
+        "team": "Auburn University Tigers",
+        "capacity": 87451,
+        "conference": "SEC",
+        "noise": 127.2,
+        "type": "measured"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.34862436317216, 29.650088598284352
+        ]
+      },
+      "properties": {
+        "stadium": "Ben Hill Griffin Stadium",
+        "team": "University of Florida Gators",
+        "capacity": 88548,
+        "conference": "SEC",
+        "noise": 115,
+        "type": "measured"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.37333730689174, 33.94989544904922
+        ]
+      },
+      "properties": {
+        "stadium": "Sanford Stadium",
+        "team": "University of Georgia Bulldogs",
+        "capacity": 92746,
+        "conference": "SEC",
+        "noise": 133.6,
+        "type": "measured"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50528, 38.02278
+        ]
+      },
+      "properties": {
+        "stadium": "Kroger Field ",
+        "team": "University of Kentucky Wildcats",
+        "capacity": 61000,
+        "conference": "SEC",
+        "noise": 109.2,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.18386457981687, 30.41203962631339
+        ]
+      },
+      "properties": {
+        "stadium": "Tiger Stadium",
+        "team": "Louisiana State University Tigers",
+        "capacity": 102301,
+        "conference": "SEC",
+        "noise": 130,
+        "type": "measured"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.53417, 34.36194
+        ]
+      },
+      "properties": {
+        "stadium": "Vaught Hemingway Stadium",
+        "team": "University of Mississippi Rebels",
+        "capacity": 64038,
+        "conference": "SEC",
+        "noise": 109.8,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.79361, 33.45639
+        ]
+      },
+      "properties": {
+        "stadium": "Davis Wade Stadium",
+        "team": "Mississippi State University Rebels",
+        "capacity": 61337,
+        "conference": "SEC",
+        "noise": 109.3,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.33299612339177, 38.935924066542306
+        ]
+      },
+      "properties": {
+        "stadium": "Faurot Field at Memorial Stadium",
+        "team": "University of Missouri Tigers",
+        "capacity": 62621,
+        "conference": "SEC",
+        "noise": 109.5,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44250, 35.20583
+        ]
+      },
+      "properties": {
+        "stadium": "Gaylord Family - Oklahoma Memorial Stadium",
+        "team": "University of Oklahoma Sooners",
+        "capacity": 83489,
+        "conference": "SEC",
+        "noise": 114.4,
+        "type": "estimated"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.01917, 33.97306
+        ]
+      },
+      "properties": {
+        "stadium": "Williams-Brice Stadium",
+        "team": "University of South Carolina Gamecocks",
+        "capacity": 77559,
+        "conference": "SEC",
+        "noise": 113,
+        "type": "estimated"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92491424058399, 35.955080293285675
+        ]
+      },
+      "properties": {
+        "stadium": "Neyland Stadium",
+        "team": "University of Tennessee Volunteers",
+        "capacity": 101915,
+        "conference": "SEC",
+        "noise": 137,
+        "type": "measured"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.73256, 30.28367
+        ]
+      },
+      "properties": {
+        "stadium": "Darrell K Royal Texas Memorial Stadium",
+        "team": "University of Texas at Austin Longhorns",
+        "capacity": 100119,
+        "conference": "SEC",
+        "noise": 118.3,
+        "type": "estimated"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.34006654914802, 30.610114984491616
+        ]
+      },
+      "properties": {
+        "stadium": "Kyle Field",
+        "team": "Texas A&M University Aggies",
+        "capacity": 102733,
+        "conference": "SEC",
+        "noise": 126,
+        "type": "measured"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80894636447947, 36.14392801564126
+        ]
+      },
+      "properties": {
+        "stadium": "FirstBank Stadium",
+        "team": "Vanderbilt University Commondores",
+        "capacity": 40350,
+        "conference": "SEC",
+        "noise": 104.4,
+        "type": "estimated"
+      }
+    }
+
+
+
+  ]
+}
+

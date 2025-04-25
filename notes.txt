@@ -1,0 +1,113 @@
+0 - open air stadiums (+0 db)
+1 - partially enclosed stadiums (+1.5 db)
+2 - fully enclosed stadiums (+3 db)
+
+Estimated Peak Formula
+Peak db = 95 + 25 (capacity/max capacity (university of michigan) + E
+E = enclosure type
+
+goals:
+create an interactive map on peak crowd noise level in big ten football stadiums (ask tim if allowed)
+
+refined plan (as of 4/9)
+- always need to refine basemap, but can come back to this
+- figure out possible bivariate/rings?
+- pop ups
+- legend
+- github
+
+
+
+
+plan
+- write geojson file of only bigten schools
+- load geojson file into js
+- create custom basemap
+- convert basemap into tiles and import/integrate into script.js
+- research the measured noise levels and find which ones need estimates
+- figure out how to differentiate measured and estimated in adding to data (should i just hand calculate all of them)
+- write function to compute estimated peak noise level using equation above
+- code proportional symbols (type of symbol, by capacity or noise level or the relation between them?)
+- popups of extra information on each stadium
+- make a legend that explains symbol + size
+- figure out github and how to share it
+
+
+
+
+acc
+boston college
+california
+clemson
+duke
+florida state
+georgia tech
+louisville
+miami fl
+north carolina
+nc state
+pittsburgh
+smu
+stanford
+syracuse
+virginia
+virginia tech
+wake forest
+
+big ten
+illinois
+indiana
+iowa
+maryland
+michigan
+mich st
+minnesota
+nebraska
+northwestern
+ohio state
+oregon
+penn state
+purdue
+rutgers
+ucla
+usc
+washington
+wisconsin
+
+big 12
+arizona
+arizona st
+baylor
+byu
+cincinnati
+colorado
+houston
+iowa st
+kansas
+kansas st
+oklahoma st
+tcu
+texas tech
+ucf
+utah
+west virginia
+
+sec
+alabama
+arkansas
+auburn
+florida
+georgia
+kentucky
+lsu
+ole miss
+mississippi st
+missouri
+oklahoma
+south carolina
+tennessee
+texas
+texas a&m
+vanderbilt
+
+
